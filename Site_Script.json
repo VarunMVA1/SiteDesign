@@ -3,15 +3,15 @@
     "actions": [
         {
             "verb": "applyTheme",
-            "themeName": "Unum DarkRed"
+            "themeName": "Metro"
         },
         {
             "verb": "setSiteExternalSharingCapability",
-            "capability": "Disabled"
+            "capability": "ExternalUserAndGuestSharing"
         },
         {
             "verb": "joinHubSite",
-            "hubSiteId": "4a03e9eb-1bf5-4d0d-92ee-480eb39f35a9"
+            "hubSiteId": "227e3288-4d0b-48f0-8e74-010b74556f1b"
         },
         {
             "verb": "installSolution",
