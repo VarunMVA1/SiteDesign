@@ -16,6 +16,23 @@
         {
             "verb": "installSolution",
             "id": "3a053d08-25c1-4a51-9fff-78a619b23e3b"
+        },
+        {
+            "verb": "setRegionalSettings",
+            "timeZone": 10, 
+            "locale": 1033, 
+            "sortOrder": 25, 
+            "hourFormat": "24"
+        },
+        {
+            "verb": "removeNavLink",
+            "displayName": "Documents",
+            "isWebRelative": true
+        },
+        {
+            "verb": "removeNavLink",
+            "displayName": "Notebook",
+            "isWebRelative": true
         }
     ], 
     "bindata": { }, 
